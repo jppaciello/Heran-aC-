@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using HenrençaTrabalho2;
+using HerancaTrabalho2;
 WorkItem workItem = new WorkItem();
 Console.WriteLine("WorkItem: " + workItem.ToString());
 
